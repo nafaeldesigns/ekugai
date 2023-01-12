@@ -1,6 +1,6 @@
 #aboutimage {
-  height: 60%;
-  width: 60%;
+  height: 90%;
+  width: 90%;
   border-radius: 50%;
 }
 
@@ -8,6 +8,8 @@
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
+  text-align: center;
+  font-weight: bold;
   overflow: hidden;
   font-family: Courier;
   
